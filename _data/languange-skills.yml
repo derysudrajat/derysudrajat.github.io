@@ -1,0 +1,7 @@
+- name: Indonesia (Native)
+  percentage: 100
+  color: danger
+
+- name: Engilish (TOEFL 550)
+  percentage: 85
+  color: info

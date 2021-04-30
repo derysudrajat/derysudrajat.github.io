@@ -1,0 +1,11 @@
+- name: Kotlin
+  percentage: 90
+  color: warning
+
+- name: Java
+  percentage: 80
+  color: danger
+
+- name: Python
+  percentage: 70
+  color: dark

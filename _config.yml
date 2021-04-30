@@ -1,0 +1,93 @@
+### Site Settings ###
+title               : Dery's Page
+description         : >-
+                      I'm Bachelor of Computer Science at Software Engineering Department,
+                      Also an Android Enthusiasm, I Love Android very much :heart:
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : derysudrajat/derysudrajat.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : YoussefRaafatNasry/portfolYOU
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Dery Sudrajat
+  image             : https://lh3.googleusercontent.com/pw/ACtC-3eDsILrMedy7-Uf3mDsm9EFqtF__5uAo0GkV72zAufnIAZy_Eq23wf8qDnsHXchs87YoGfC2thQY6ngjUvXMd1g22CYvHpWIqLV7LISepLfJtaW07q34ZLen4BTrpkOMoCpOxKRAHMVJr_Evgg40IxP_A=s738-no?authuser=0
+# behance           : your_username
+# dribbble          : your_username
+  email             : dery.sudrajat17@gmail.com
+# facebook          : your_username
+  github            : derysudrajat
+# gitlab            : your_username
+  instagram         : derysudrajat
+# kaggle            : your_username
+  linkedin          : derysudrajat
+  medium            : dery.io
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+  twitter           : _derysudrajat
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Disqus ###
+disqus:
+  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "certificate"
+    values:
+      layout: "certificate"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

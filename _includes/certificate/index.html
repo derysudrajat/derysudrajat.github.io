@@ -1,0 +1,26 @@
+<!-- Remote Projects JS -->
+<script src="{{ '/assets/js/remote-projects.js' | relative_url }}"></script>
+
+<div class="card-columns m-3 mt-5">
+
+  <!-- Local Projects -->
+  {% for project in site.certificate %}
+
+    {%- assign project_type  = "local" -%}
+    {%- assign project_id    = project.name | slugify -%}
+    {%- assign project_img   = project.image -%}
+    {%- assign project_name  = project.name -%}
+    {%- assign project_desc  = project.description -%}
+    {%- assign project_tools = project.tools -%}
+
+    {%- if project.external_url -%}
+      {%- assign project_url = project.external_url -%}
+    {%- else -%}
+      {%- assign project_url = project.url | relative_url -%}
+    {%- endif -%}
+
+    {% include projects/project-card.html %}
+
+  {% endfor %}
+
+</div>

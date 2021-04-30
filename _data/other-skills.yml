@@ -1,0 +1,11 @@
+- name: Figma
+  percentage: 95
+  color: seccondary
+
+- name: Adobe Illustrator
+  percentage: 90
+  color: warning
+
+- name: Adobe XD
+  percentage: 90
+  color: dark
