@@ -8,6 +8,24 @@ weight: 3
 <div class="card-columns m-3 mt-5">
 
     <div class="wow animated fadeIn" data-wow-delay=".15s">
+        <a href="https://www.dicoding.com/certificates/EYX4R5LVRXDL" class="project card text-dark"><img
+                id="kampung-siaga-covid-img" class="card-img-top"
+                src="https://user-images.githubusercontent.com/32610660/118436619-4f6d0480-b70b-11eb-8611-4b2f2de4cbe4.png"
+                alt="Kampung Siaga Covid">
+            <div class="card-body">
+                <h5 id="kampung-siaga-covid-name" class="card-title">
+                    <b>
+                        Belajar Android Jetpack Pro
+                    </b>
+                </h5>
+                <p>Dicoding Indonesia<br>May 2021 - May 2024</p>
+                <p id="kampung-siaga-covid-desc" class="card-text">ID Credential: EYX4R5LVRXDL
+                </p>
+            </div>
+        </a>
+    </div>
+
+    <div class="wow animated fadeIn" data-wow-delay=".15s">
         <a href="https://github.com/derysudrajat/derysudrajat.github.io/files/6407137/Sertifikat.Uji.Kompetensi.pdf" class="project card text-dark"><img
                 id="kampung-siaga-covid-img" class="card-img-top"
                 src="https://user-images.githubusercontent.com/32610660/116735329-89a28a80-aa18-11eb-883e-5a357b1438e4.png"
@@ -182,4 +200,5 @@ weight: 3
             </div>
         </a>
     </div>
+
 </div>
