@@ -558,6 +558,12 @@ body { font-family: "Poppins", sans-serif; }
 
 .skill-100 { width: 100%; }
 
+.progress {
+  width: $width;
+  height: $height;
+  position: relative;
+}
+
 .timeline-body { position: relative; background-color: #f8f9fa; border-radius: 0 15px 15px 0; padding: 5px 0; }
 .timeline-body:after { content: ""; width: 4px; height: 100%; background-color: #007bff; position: absolute; left: -4px; top: 0; }
 .timeline-body .timeline-item { position: relative; }
