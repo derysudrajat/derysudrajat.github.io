@@ -12,7 +12,7 @@ weight: 3
                 id="kampung-siaga-covid-img" class="card-img-top"
                 src="https://user-images.githubusercontent.com/32610660/118436619-4f6d0480-b70b-11eb-8611-4b2f2de4cbe4.png"
                 alt="Kampung Siaga Covid">
-            <div class="card-body">
+            <div class="card-body text-themed" >
                 <h5 id="kampung-siaga-covid-name" class="card-title">
                     <b>
                         Belajar Android Jetpack Pro
@@ -30,7 +30,7 @@ weight: 3
                 id="kampung-siaga-covid-img" class="card-img-top"
                 src="https://user-images.githubusercontent.com/32610660/116735329-89a28a80-aa18-11eb-883e-5a357b1438e4.png"
                 alt="Kampung Siaga Covid">
-            <div class="card-body">
+            <div class="card-body text-themed">
                 <h5 id="kampung-siaga-covid-name" class="card-title">
                     <b>
                         Programmer
@@ -48,7 +48,7 @@ weight: 3
                 id="kampung-siaga-covid-img" class="card-img-top"
                 src="https://user-images.githubusercontent.com/32610660/116734194-51e71300-aa17-11eb-9ee8-e04c5a903a18.png"
                 alt="Kampung Siaga Covid">
-            <div class="card-body">
+            <div class="card-body text-themed">
                 <h5 id="kampung-siaga-covid-name" class="card-title">
                     <b>
                         Belajar Fundamental Aplikasi Android
@@ -66,7 +66,7 @@ weight: 3
                 id="kampung-siaga-covid-img" class="card-img-top"
                 src="https://user-images.githubusercontent.com/32610660/116734044-19dfd000-aa17-11eb-8c93-943bff46d02e.png"
                 alt="Kampung Siaga Covid">
-            <div class="card-body">
+            <div class="card-body text-themed">
                 <h5 id="kampung-siaga-covid-name" class="card-title">
                     <b>
                         Belajar Membuat Aplikasi Android untuk Pemula
@@ -84,7 +84,7 @@ weight: 3
                 id="kampung-siaga-covid-img" class="card-img-top"
                 src="https://user-images.githubusercontent.com/32610660/116731133-8527a300-aa13-11eb-9fbe-b8662e2fa774.png"
                 alt="Kampung Siaga Covid">
-            <div class="card-body">
+            <div class="card-body text-themed">
                 <h5 id="kampung-siaga-covid-name" class="card-title">
                     <b>
                         Belajar Prinsip Pemgrograman Solid
@@ -102,7 +102,7 @@ weight: 3
                 id="kampung-siaga-covid-img" class="card-img-top"
                 src="https://user-images.githubusercontent.com/32610660/116733910-e8ff9b00-aa16-11eb-9de8-45923c5183fc.png"
                 alt="Kampung Siaga Covid">
-            <div class="card-body">
+            <div class="card-body text-themed">
                 <h5 id="kampung-siaga-covid-name" class="card-title">
                     <b>
                         Memulai Pemrograman Dengan Kotlin
@@ -120,7 +120,7 @@ weight: 3
                 id="kampung-siaga-covid-img" class="card-img-top"
                 src="https://user-images.githubusercontent.com/32610660/116733745-adfd6780-aa16-11eb-889e-dbe950b88854.png"
                 alt="Kampung Siaga Covid">
-            <div class="card-body">
+            <div class="card-body text-themed">
                 <h5 id="kampung-siaga-covid-name" class="card-title">
                     <b>
                         Belajar Dasar Visualisasi Data
@@ -138,7 +138,7 @@ weight: 3
                 id="kampung-siaga-covid-img" class="card-img-top"
                 src="https://user-images.githubusercontent.com/32610660/116733513-624abe00-aa16-11eb-9a14-6539a94ecf94.png"
                 alt="Kampung Siaga Covid">
-            <div class="card-body">
+            <div class="card-body text-themed">
                 <h5 id="kampung-siaga-covid-name" class="card-title">
                     <b>
                         Belajar Machine Learning untuk Pemula
@@ -156,7 +156,7 @@ weight: 3
                 id="kampung-siaga-covid-img" class="card-img-top"
                 src="https://user-images.githubusercontent.com/32610660/116733059-d33da600-aa15-11eb-930f-acdf43ec751e.png"
                 alt="Kampung Siaga Covid">
-            <div class="card-body">
+            <div class="card-body text-themed">
                 <h5 id="kampung-siaga-covid-name" class="card-title">
                     <b>
                         Memulai Pemrograman Dengan Python
@@ -174,7 +174,7 @@ weight: 3
                 id="kampung-siaga-covid-img" class="card-img-top"
                 src="https://user-images.githubusercontent.com/32610660/116732116-dab07f80-aa14-11eb-87f0-f655c5a2180a.png"
                 alt="Kampung Siaga Covid">
-            <div class="card-body">
+            <div class="card-body text-themed">
                 <h5 id="kampung-siaga-covid-name" class="card-title">
                     <b>Belajar Membuat Augmented Reality</b>
                 </h5>
@@ -190,7 +190,7 @@ weight: 3
                 id="kampung-siaga-covid-img" class="card-img-top"
                 src="https://user-images.githubusercontent.com/32610660/116731967-9f15b580-aa14-11eb-890b-4fcbe6b5ddc5.png"
                 alt="Kampung Siaga Covid">
-            <div class="card-body">
+            <div class="card-body text-themed">
                 <h5 id="kampung-siaga-covid-name" class="card-title">
                     <b>Belajar Dasar Pemrograman Web</b>
                 </h5>
