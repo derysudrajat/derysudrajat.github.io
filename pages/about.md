@@ -27,6 +27,14 @@ Bachelor of Computer Science at the Software Engineering Department, Faculty of 
 
 
 ## Experience
-<div class="row">
-{% include about/experience.html %}
+<div class="timeline-body bg-themed">
+    {% for item in site.data.experience %}
+      <div class="timeline-item">
+        <div class="content">
+          <h2>{{ item.title }}</h2>
+          <h6 class="date">{{ item.year}}</h6>
+          <p>{{ item.description }}</p>
+        </div>
+      </div>
+    {% endfor %}
 </div>
