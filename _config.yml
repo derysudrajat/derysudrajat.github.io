@@ -2,6 +2,11 @@
 title               : Dery's Page
 description         : >-
                       I'm Bachelor of Computer Science at Software Engineering Department,
+
+                      Android Developer Associate at LinkAja,
+
+                      Facilitator and Mentor in Bangkit 2022 led by Google, GoTo, and Traveloka
+                      
                       Also an Android Enthusiasm, I Love Android very much :heart:
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : derysudrajat/derysudrajat.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -25,7 +30,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Dery Sudrajat
-  image             : https://lh3.googleusercontent.com/pw/ACtC-3eDsILrMedy7-Uf3mDsm9EFqtF__5uAo0GkV72zAufnIAZy_Eq23wf8qDnsHXchs87YoGfC2thQY6ngjUvXMd1g22CYvHpWIqLV7LISepLfJtaW07q34ZLen4BTrpkOMoCpOxKRAHMVJr_Evgg40IxP_A=s738-no?authuser=0
+  image             : https://user-images.githubusercontent.com/32610660/185723140-d9b27f7e-13d0-4a41-a885-58f915aa0c8e.png
 # behance           : your_username
 # dribbble          : your_username
   email             : dery.sudrajat17@gmail.com
